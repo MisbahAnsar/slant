@@ -1,8 +1,11 @@
-# React + Vite
+# **TheSlantAgency**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my very first freelance website built using **React**.
 
-Currently, two official plugins are available:
+### **Key Features**:
+- **Interactive User Experience**: Designed to keep users engaged and involved.
+- **Responsive Design**: Optimized for **mobile**, **tablet**, **laptop**, and **desktop** screens.
+  - *(Note: Minor issues may occur on some desktops)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **Check it out here**:  
+🔗 [**TheSlantAgency**](https://theslantagency.netlify.app/)
