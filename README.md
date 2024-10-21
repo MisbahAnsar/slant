@@ -7,5 +7,4 @@ This is my very first freelance website built using **React**.
 - **Responsive Design**: Optimized for **mobile**, **tablet**, **laptop**, and **desktop** screens.
   - *(Note: Minor issues may occur on some desktops)*
 
-### **Check it out here**:  
-🔗 [**TheSlantAgency**](https://theslantagency.netlify.app/)
+
